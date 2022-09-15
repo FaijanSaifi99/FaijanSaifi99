@@ -1,10 +1,10 @@
 
 
 ### Hi there 👋
-#### <iv>I'm Shadab Khan, a full stack software developer who enjoys learning new skills that can be used to develop functional, appealing, custom-made web & Mobile app products and services.</div>  
+#### <iv>I'm Faijan Saifi, a full stack web developer who enjoys learning new skills that can be used to develop functional, appealing, custom-made web & Mobile app products and services.</div>  
 
-- 🌱 I’m currently learning system programming in Rust and Ethical Hacking.
-- 💬 Ask me about anything related to ReactJS, Nextjs, MERN, Python/Django.
+- 🌱 I’m currently learning python.
+- 💬 Ask me about anything related to ReactJS, Nextjs, MERN.
 - ⚡ 
 - ✍️ I love writing: Find my articles on [medium](https://medium.com/@Nehe_Kamolu)
 
