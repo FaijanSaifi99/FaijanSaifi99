@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning python.
 - 💬 Ask me about anything related to ReactJS, Nextjs, MERN.
 - ⚡ 
-- ✍️ I love writing: Find my articles on [medium](https://medium.com/@Nehe_Kamolu)
 
 
 [![Shadab's GitHub stats](https://github-readme-stats.vercel.app/api?username=faijansaifi99&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
